@@ -1,0 +1,24 @@
+{
+  "title": "九华山 · 环山骑行",
+  "intro": "",
+  "cover": {
+    "src": "/journal-media/jiuhua/jiuhua-mountain-bike-05e6e64c.webp",
+    "thumbnail": "/journal-media/jiuhua/jiuhua-mountain-bike-05e6e64c-thumb.webp",
+    "alt": "红色自行车停在绿色护栏旁，远处是连绵山峦和蓝天白云"
+  },
+  "days": [
+    {
+      "date": "2026-08-22",
+      "title": "",
+      "paragraphs": [],
+      "photos": [
+        {
+          "src": "/journal-media/jiuhua/jiuhua-mountain-bike-05e6e64c.webp",
+          "thumbnail": "/journal-media/jiuhua/jiuhua-mountain-bike-05e6e64c-thumb.webp",
+          "alt": "红色自行车停在绿色护栏旁，远处是连绵山峦和蓝天白云"
+        }
+      ]
+    }
+  ],
+  "reflection": ""
+}

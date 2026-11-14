@@ -1,0 +1,24 @@
+{
+  "title": "太平湖 · 环湖骑行",
+  "intro": "",
+  "cover": {
+    "src": "/journal-media/taiping/taiping-lake-mountains-9d0abadc.webp",
+    "thumbnail": "/journal-media/taiping/taiping-lake-mountains-9d0abadc-thumb.webp",
+    "alt": "阴云下的湖面与层叠山峦，岸边有一株绿树"
+  },
+  "days": [
+    {
+      "date": "2025-10-26",
+      "title": "",
+      "paragraphs": [],
+      "photos": [
+        {
+          "src": "/journal-media/taiping/taiping-lake-mountains-9d0abadc.webp",
+          "thumbnail": "/journal-media/taiping/taiping-lake-mountains-9d0abadc-thumb.webp",
+          "alt": "阴云下的湖面与层叠山峦，岸边有一株绿树"
+        }
+      ]
+    }
+  ],
+  "reflection": ""
+}

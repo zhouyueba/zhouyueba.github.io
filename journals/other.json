@@ -1,0 +1,36 @@
+{
+  "title": "黄山 · 山地骑游",
+  "intro": "",
+  "cover": {
+    "src": "/journal-media/other/huangshan-jun01-rider-gate-305b4fcd.webp",
+    "thumbnail": "/journal-media/other/huangshan-jun01-rider-gate-305b4fcd-thumb.webp",
+    "alt": "骑行者与红色自行车在黄山牌坊前合影，雨后广场湿润，周围山林笼罩着云雾"
+  },
+  "days": [
+    {
+      "date": "2025-06-01",
+      "title": "",
+      "paragraphs": [],
+      "photos": [
+        {
+          "src": "/journal-media/other/huangshan-jun01-rider-gate-305b4fcd.webp",
+          "thumbnail": "/journal-media/other/huangshan-jun01-rider-gate-305b4fcd-thumb.webp",
+          "alt": "骑行者与红色自行车在黄山牌坊前合影，雨后广场湿润，周围山林笼罩着云雾"
+        }
+      ]
+    },
+    {
+      "date": "2025-06-03",
+      "title": "",
+      "paragraphs": [],
+      "photos": [
+        {
+          "src": "/journal-media/other/huangshan-jun03-scenic-road-4c7705ea.webp",
+          "thumbnail": "/journal-media/other/huangshan-jun03-scenic-road-4c7705ea-thumb.webp",
+          "alt": "红色自行车停在黄山1号风景道标志前，身后是绿树和云雾笼罩的山林"
+        }
+      ]
+    }
+  ],
+  "reflection": ""
+}

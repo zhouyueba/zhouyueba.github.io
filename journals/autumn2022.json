@@ -1,0 +1,108 @@
+{
+  "title": "沪浙 · 国庆长途",
+  "intro": "",
+  "cover": {
+    "src": "/journal-media/autumn2022/autumn2022-oct08-lake-bridge-347cc24b.webp",
+    "thumbnail": "/journal-media/autumn2022/autumn2022-oct08-lake-bridge-347cc24b-thumb.webp",
+    "alt": "长桥横跨平静的湖面，远处群山间缭绕着低云"
+  },
+  "days": [
+    {
+      "date": "2022-10-01",
+      "title": "",
+      "paragraphs": [],
+      "photos": [
+        {
+          "src": "/journal-media/autumn2022/autumn2022-predeparture-gear-6e6909ac.webp",
+          "thumbnail": "/journal-media/autumn2022/autumn2022-predeparture-gear-6e6909ac-thumb.webp",
+          "alt": "骑行头盔、红色背包、充电设备、运动相机和洗漱用品整齐摆放在床上"
+        }
+      ]
+    },
+    {
+      "date": "2022-10-02",
+      "title": "",
+      "paragraphs": [],
+      "photos": [
+        {
+          "src": "/journal-media/autumn2022/autumn2022-oct02-sunrise-e09666ae.webp",
+          "thumbnail": "/journal-media/autumn2022/autumn2022-oct02-sunrise-e09666ae-thumb.webp",
+          "alt": "橙色晨光中太阳升起在远处堤岸上方，近处是水面和草地"
+        }
+      ]
+    },
+    {
+      "date": "2022-10-03",
+      "title": "",
+      "paragraphs": [],
+      "photos": [
+        {
+          "src": "/journal-media/autumn2022/autumn2022-oct03-rest-stop-42530c60.webp",
+          "thumbnail": "/journal-media/autumn2022/autumn2022-oct03-rest-stop-42530c60-thumb.webp",
+          "alt": "蓝色山地自行车停在砖墙旁的长椅边，椅上放着红色背包、头盔和衣物"
+        }
+      ]
+    },
+    {
+      "date": "2022-10-04",
+      "title": "",
+      "paragraphs": [],
+      "photos": [
+        {
+          "src": "/journal-media/autumn2022/autumn2022-oct04-lakeside-bike-15c37279.webp",
+          "thumbnail": "/journal-media/autumn2022/autumn2022-oct04-lakeside-bike-15c37279-thumb.webp",
+          "alt": "蓝色山地自行车停在湖边石栏旁，身后是荷叶、树荫和远处群山"
+        }
+      ]
+    },
+    {
+      "date": "2022-10-05",
+      "title": "",
+      "paragraphs": [],
+      "photos": [
+        {
+          "src": "/journal-media/autumn2022/autumn2022-oct05-evening-water-88c0c515.webp",
+          "thumbnail": "/journal-media/autumn2022/autumn2022-oct05-evening-water-88c0c515-thumb.webp",
+          "alt": "傍晚的平静水面，远处桥梁横跨水岸，山坡与岸边灯光映在暮色中"
+        }
+      ]
+    },
+    {
+      "date": "2022-10-06",
+      "title": "",
+      "paragraphs": [],
+      "photos": [
+        {
+          "src": "/journal-media/autumn2022/autumn2022-oct06-river-7880d3fe.webp",
+          "thumbnail": "/journal-media/autumn2022/autumn2022-oct06-river-7880d3fe-thumb.webp",
+          "alt": "阴云下的宽阔水面，两岸分别是城市楼房与绿树，远处山峦笼罩在云雾中"
+        }
+      ]
+    },
+    {
+      "date": "2022-10-07",
+      "title": "",
+      "paragraphs": [],
+      "photos": [
+        {
+          "src": "/journal-media/autumn2022/autumn2022-oct07-arch-bridge-dde4902e.webp",
+          "thumbnail": "/journal-media/autumn2022/autumn2022-oct07-arch-bridge-dde4902e-thumb.webp",
+          "alt": "阴云下的拱桥横跨水面，两岸是绿树覆盖的山坡"
+        }
+      ]
+    },
+    {
+      "date": "2022-10-08",
+      "title": "",
+      "paragraphs": [],
+      "photos": [
+        {
+          "src": "/journal-media/autumn2022/autumn2022-oct08-lake-bridge-347cc24b.webp",
+          "thumbnail": "/journal-media/autumn2022/autumn2022-oct08-lake-bridge-347cc24b-thumb.webp",
+          "alt": "长桥横跨平静的湖面，远处群山间缭绕着低云"
+        }
+      ]
+    }
+  ],
+  "reflection": ""
+}

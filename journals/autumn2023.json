@@ -1,0 +1,84 @@
+{
+  "title": "沪浙 · 2023 国庆长途",
+  "intro": "",
+  "cover": {
+    "src": "/journal-media/autumn2023/autumn2023-oct04-rice-fields-5edbb995.webp",
+    "thumbnail": "/journal-media/autumn2023/autumn2023-oct04-rice-fields-5edbb995-thumb.webp",
+    "alt": "蓝天白云下的山谷稻田泛着金黄色，周围是茂密树林和青山"
+  },
+  "days": [
+    {
+      "date": "2023-09-29",
+      "title": "",
+      "paragraphs": [],
+      "photos": [
+        {
+          "src": "/journal-media/autumn2023/autumn2023-sep29-zhejiang-border-0cd1d2a1.webp",
+          "thumbnail": "/journal-media/autumn2023/autumn2023-sep29-zhejiang-border-0cd1d2a1-thumb.webp",
+          "alt": "骑行者与两辆自行车停在桥面护栏旁，上方是写着浙江界的蓝色路牌"
+        }
+      ]
+    },
+    {
+      "date": "2023-09-30",
+      "title": "",
+      "paragraphs": [],
+      "photos": [
+        {
+          "src": "/journal-media/autumn2023/autumn2023-sep30-green-fields-b1b7c2a1.webp",
+          "thumbnail": "/journal-media/autumn2023/autumn2023-sep30-green-fields-b1b7c2a1-thumb.webp",
+          "alt": "大片绿色田地铺展在山脚下，远处是道路、楼房与连绵青山"
+        }
+      ]
+    },
+    {
+      "date": "2023-10-01",
+      "title": "",
+      "paragraphs": [],
+      "photos": [
+        {
+          "src": "/journal-media/autumn2023/autumn2023-oct01-watch-eae645a9.webp",
+          "thumbnail": "/journal-media/autumn2023/autumn2023-oct01-watch-eae645a9-thumb.webp",
+          "alt": "戴彩色骑行手套的手腕上，智能手表显示骑行数据，背景是绿树环绕的公路"
+        }
+      ]
+    },
+    {
+      "date": "2023-10-02",
+      "title": "",
+      "paragraphs": [],
+      "photos": [
+        {
+          "src": "/journal-media/autumn2023/autumn2023-oct02-fields-road-41596543.webp",
+          "thumbnail": "/journal-media/autumn2023/autumn2023-oct02-fields-road-41596543-thumb.webp",
+          "alt": "自行车停在公路护栏旁，路边是绿色田野，阳光穿过大片云层照向远处群山"
+        }
+      ]
+    },
+    {
+      "date": "2023-10-03",
+      "title": "",
+      "paragraphs": [],
+      "photos": [
+        {
+          "src": "/journal-media/autumn2023/autumn2023-oct03-riverside-bike-114204ee.webp",
+          "thumbnail": "/journal-media/autumn2023/autumn2023-oct03-riverside-bike-114204ee-thumb.webp",
+          "alt": "红色自行车靠在沿河公路护栏旁，远处是跨河桥梁、群山和透出阳光的云层"
+        }
+      ]
+    },
+    {
+      "date": "2023-10-04",
+      "title": "",
+      "paragraphs": [],
+      "photos": [
+        {
+          "src": "/journal-media/autumn2023/autumn2023-oct04-rice-fields-5edbb995.webp",
+          "thumbnail": "/journal-media/autumn2023/autumn2023-oct04-rice-fields-5edbb995-thumb.webp",
+          "alt": "蓝天白云下的山谷稻田泛着金黄色，周围是茂密树林和青山"
+        }
+      ]
+    }
+  ],
+  "reflection": ""
+}

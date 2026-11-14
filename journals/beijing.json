@@ -1,0 +1,72 @@
+{
+  "title": "北京 · 城市骑游",
+  "intro": "",
+  "cover": {
+    "src": "/journal-media/beijing/beijing-may05-palace-bike-7e402ed9.webp",
+    "thumbnail": "/journal-media/beijing/beijing-may05-palace-bike-7e402ed9-thumb.webp",
+    "alt": "骑行者与红色自行车在红墙金瓦的宫殿建筑前合影"
+  },
+  "days": [
+    {
+      "date": "2024-05-02",
+      "title": "",
+      "paragraphs": [],
+      "photos": [
+        {
+          "src": "/journal-media/beijing/beijing-may02-rider-courtyard-885c2c6c.webp",
+          "thumbnail": "/journal-media/beijing/beijing-may02-rider-courtyard-885c2c6c-thumb.webp",
+          "alt": "戴头盔的骑行者与红色自行车在红墙金瓦的古建筑院落前合影"
+        }
+      ]
+    },
+    {
+      "date": "2024-05-03",
+      "title": "",
+      "paragraphs": [],
+      "photos": [
+        {
+          "src": "/journal-media/beijing/beijing-may03-mountain-road-252f1914.webp",
+          "thumbnail": "/journal-media/beijing/beijing-may03-mountain-road-252f1914-thumb.webp",
+          "alt": "红色自行车停在山路护栏旁，公路沿绿色山坡蜿蜒，远处是层叠群山"
+        }
+      ]
+    },
+    {
+      "date": "2024-05-04",
+      "title": "",
+      "paragraphs": [],
+      "photos": [
+        {
+          "src": "/journal-media/beijing/beijing-may04-jietai-temple-da145a43.webp",
+          "thumbnail": "/journal-media/beijing/beijing-may04-jietai-temple-da145a43-thumb.webp",
+          "alt": "戒台寺彩绘牌坊下的山间道路旁聚集着骑行者，四周是绿树和山峦"
+        }
+      ]
+    },
+    {
+      "date": "2024-05-05",
+      "title": "",
+      "paragraphs": [],
+      "photos": [
+        {
+          "src": "/journal-media/beijing/beijing-may05-palace-bike-7e402ed9.webp",
+          "thumbnail": "/journal-media/beijing/beijing-may05-palace-bike-7e402ed9-thumb.webp",
+          "alt": "骑行者与红色自行车在红墙金瓦的宫殿建筑前合影"
+        }
+      ]
+    },
+    {
+      "date": "2024-05-06",
+      "title": "",
+      "paragraphs": [],
+      "photos": [
+        {
+          "src": "/journal-media/beijing/beijing-may06-corner-tower-e165b3ab.webp",
+          "thumbnail": "/journal-media/beijing/beijing-may06-corner-tower-e165b3ab-thumb.webp",
+          "alt": "角楼与绿树倒映在平静的护城河中，天空晴朗"
+        }
+      ]
+    }
+  ],
+  "reflection": ""
+}
