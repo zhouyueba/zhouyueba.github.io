@@ -4,7 +4,8 @@
   "cover": {
     "src": "/journal-media/qinghai/day-04-evening-road-b6b0f053.webp",
     "thumbnail": "/journal-media/qinghai/day-04-evening-road-b6b0f053-thumb.webp",
-    "alt": "傍晚阳光照亮草原公路，红色自行车停在路肩，天空铺满云层"
+    "alt": "傍晚阳光照亮草原公路，红色自行车停在路肩，天空铺满云层",
+    "id": "qinghai:2026-09-29:1"
   },
   "days": [
     {
@@ -15,7 +16,8 @@
         {
           "src": "/journal-media/qinghai/day-01-stone-7a45e878.webp",
           "thumbnail": "/journal-media/qinghai/day-01-stone-7a45e878-thumb.webp",
-          "alt": "公路旁的题字石刻，身后是山林与蓝天"
+          "alt": "公路旁的题字石刻，身后是山林与蓝天",
+          "id": "qinghai:2026-09-26:1"
         }
       ]
     },
@@ -27,7 +29,8 @@
         {
           "src": "/journal-media/qinghai/day-02-lake-09e5d754.webp",
           "thumbnail": "/journal-media/qinghai/day-02-lake-09e5d754-thumb.webp",
-          "alt": "厚云下的湖面，近处是一片黄色花田"
+          "alt": "厚云下的湖面，近处是一片黄色花田",
+          "id": "qinghai:2026-09-27:1"
         }
       ]
     },
@@ -39,7 +42,8 @@
         {
           "src": "/journal-media/qinghai/day-03-road-33905025.webp",
           "thumbnail": "/journal-media/qinghai/day-03-road-33905025-thumb.webp",
-          "alt": "高原公路旁停放的红色自行车，远处是草甸和群山"
+          "alt": "高原公路旁停放的红色自行车，远处是草甸和群山",
+          "id": "qinghai:2026-09-28:1"
         }
       ]
     },
@@ -51,7 +55,8 @@
         {
           "src": "/journal-media/qinghai/day-04-evening-road-b6b0f053.webp",
           "thumbnail": "/journal-media/qinghai/day-04-evening-road-b6b0f053-thumb.webp",
-          "alt": "傍晚阳光照亮草原公路，红色自行车停在路肩，天空铺满云层"
+          "alt": "傍晚阳光照亮草原公路，红色自行车停在路肩，天空铺满云层",
+          "id": "qinghai:2026-09-29:1"
         }
       ]
     },
@@ -63,7 +68,8 @@
         {
           "src": "/journal-media/qinghai/day-05-autumn-forest-0d2a0d02.webp",
           "thumbnail": "/journal-media/qinghai/day-05-autumn-forest-0d2a0d02-thumb.webp",
-          "alt": "红色自行车靠在绿色护栏旁，远处是云雾中的金色山林"
+          "alt": "红色自行车靠在绿色护栏旁，远处是云雾中的金色山林",
+          "id": "qinghai:2026-09-30:1"
         }
       ]
     },
@@ -75,7 +81,8 @@
         {
           "src": "/journal-media/qinghai/day-06-mountain-road-37ba7b1d.webp",
           "thumbnail": "/journal-media/qinghai/day-06-mountain-road-37ba7b1d-thumb.webp",
-          "alt": "公路蜿蜒穿过山谷，远处层叠群山沐浴在傍晚阳光中"
+          "alt": "公路蜿蜒穿过山谷，远处层叠群山沐浴在傍晚阳光中",
+          "id": "qinghai:2026-10-01:1"
         }
       ]
     },
@@ -87,7 +94,8 @@
         {
           "src": "/journal-media/qinghai/day-07-valley-road-2ba6f90e.webp",
           "thumbnail": "/journal-media/qinghai/day-07-valley-road-2ba6f90e-thumb.webp",
-          "alt": "自行车停在山谷公路护栏旁，溪流和金色树林沿道路延伸"
+          "alt": "自行车停在山谷公路护栏旁，溪流和金色树林沿道路延伸",
+          "id": "qinghai:2026-10-02:1"
         }
       ]
     }

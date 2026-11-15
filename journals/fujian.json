@@ -4,7 +4,8 @@
   "cover": {
     "src": "/journal-media/fujian/fujian-may04-lake-28a0666e.webp",
     "thumbnail": "/journal-media/fujian/fujian-may04-lake-28a0666e-thumb.webp",
-    "alt": "绿树环绕着平静湖面，岸边生长着点缀橙色小花的灌木，远处是连绵山坡"
+    "alt": "绿树环绕着平静湖面，岸边生长着点缀橙色小花的灌木，远处是连绵山坡",
+    "id": "fujian:2025-05-04:1"
   },
   "days": [
     {
@@ -15,7 +16,8 @@
         {
           "src": "/journal-media/fujian/fujian-may02-waterfront-dbc7d752.webp",
           "thumbnail": "/journal-media/fujian/fujian-may02-waterfront-dbc7d752-thumb.webp",
-          "alt": "红色自行车横放在水岸草地上，水面上排列着浮标，远处是楼房和山峦"
+          "alt": "红色自行车横放在水岸草地上，水面上排列着浮标，远处是楼房和山峦",
+          "id": "fujian:2025-05-02:1"
         }
       ]
     },
@@ -27,7 +29,8 @@
         {
           "src": "/journal-media/fujian/fujian-may03-flower-stairs-5071071f.webp",
           "thumbnail": "/journal-media/fujian/fujian-may03-flower-stairs-5071071f-thumb.webp",
-          "alt": "红色自行车停在石阶前，两侧盛开着鲜艳的粉红色花朵，旁边是岩壁和绿树"
+          "alt": "红色自行车停在石阶前，两侧盛开着鲜艳的粉红色花朵，旁边是岩壁和绿树",
+          "id": "fujian:2025-05-03:1"
         }
       ]
     },
@@ -39,7 +42,8 @@
         {
           "src": "/journal-media/fujian/fujian-may04-lake-28a0666e.webp",
           "thumbnail": "/journal-media/fujian/fujian-may04-lake-28a0666e-thumb.webp",
-          "alt": "绿树环绕着平静湖面，岸边生长着点缀橙色小花的灌木，远处是连绵山坡"
+          "alt": "绿树环绕着平静湖面，岸边生长着点缀橙色小花的灌木，远处是连绵山坡",
+          "id": "fujian:2025-05-04:1"
         }
       ]
     }

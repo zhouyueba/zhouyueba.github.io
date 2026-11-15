@@ -4,7 +4,8 @@
   "cover": {
     "src": "/journal-media/xiamen/xiamen-jan27-beach-rider-33832a9b.webp",
     "thumbnail": "/journal-media/xiamen/xiamen-jan27-beach-rider-33832a9b-thumb.webp",
-    "alt": "背着红色背包的骑行者与自行车在海边合影，身后是沙滩、蓝色海面和远处的建筑"
+    "alt": "背着红色背包的骑行者与自行车在海边合影，身后是沙滩、蓝色海面和远处的建筑",
+    "id": "xiamen:2025-01-27:1"
   },
   "days": [
     {
@@ -15,7 +16,8 @@
         {
           "src": "/journal-media/xiamen/xiamen-jan26-mural-bike-4bc681f2.webp",
           "thumbnail": "/journal-media/xiamen/xiamen-jan26-mural-bike-4bc681f2-thumb.webp",
-          "alt": "红色自行车靠在彩绘墙前，墙上绘有黄色花朵、人物和中文文字"
+          "alt": "红色自行车靠在彩绘墙前，墙上绘有黄色花朵、人物和中文文字",
+          "id": "xiamen:2025-01-26:1"
         }
       ]
     },
@@ -27,7 +29,8 @@
         {
           "src": "/journal-media/xiamen/xiamen-jan27-beach-rider-33832a9b.webp",
           "thumbnail": "/journal-media/xiamen/xiamen-jan27-beach-rider-33832a9b-thumb.webp",
-          "alt": "背着红色背包的骑行者与自行车在海边合影，身后是沙滩、蓝色海面和远处的建筑"
+          "alt": "背着红色背包的骑行者与自行车在海边合影，身后是沙滩、蓝色海面和远处的建筑",
+          "id": "xiamen:2025-01-27:1"
         }
       ]
     }

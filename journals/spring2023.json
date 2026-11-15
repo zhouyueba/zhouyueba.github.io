@@ -1,31 +1,64 @@
 {
   "title": "沪苏 · 五一长途",
   "intro": "",
-  "cover": null,
+  "cover": {
+    "src": "/journal-media/spring2023/codex-clipboard-80e15f67-a96f-405b-8627-d2fbb05be9cf-8f683b53.webp",
+    "thumbnail": "/journal-media/spring2023/codex-clipboard-80e15f67-a96f-405b-8627-d2fbb05be9cf-8f683b53-thumb.webp",
+    "alt": "背红色背包的骑行者站在江边望向远处的钢桁架桥",
+    "id": "spring2023:2023-05-03:1"
+  },
   "days": [
     {
       "date": "2023-04-30",
       "title": "",
       "paragraphs": [],
-      "photos": []
+      "photos": [
+        {
+          "src": "/journal-media/spring2023/codex-clipboard-9a48b960-1d3d-480a-9fed-d3efb86b71d2-e07b554b.webp",
+          "thumbnail": "/journal-media/spring2023/codex-clipboard-9a48b960-1d3d-480a-9fed-d3efb86b71d2-e07b554b-thumb.webp",
+          "alt": "蓝色山地车停在乡间公路旁，夕阳落向远处的田野",
+          "id": "spring2023:2023-04-30:1"
+        }
+      ]
     },
     {
       "date": "2023-05-01",
       "title": "",
       "paragraphs": [],
-      "photos": []
+      "photos": [
+        {
+          "src": "/journal-media/spring2023/codex-clipboard-f98d3a5e-c6a6-47c4-bcb0-bf106669e11d-d0ce94d9.webp",
+          "thumbnail": "/journal-media/spring2023/codex-clipboard-f98d3a5e-c6a6-47c4-bcb0-bf106669e11d-d0ce94d9-thumb.webp",
+          "alt": "树荫下的「毋忘国耻」纪念碑，碑前摆放着鲜花",
+          "id": "spring2023:2023-05-01:1"
+        }
+      ]
     },
     {
       "date": "2023-05-02",
       "title": "",
       "paragraphs": [],
-      "photos": []
+      "photos": [
+        {
+          "src": "/journal-media/spring2023/codex-clipboard-f1d03116-0ae3-48f9-b96d-f3f32373b845-cb7665d4.webp",
+          "thumbnail": "/journal-media/spring2023/codex-clipboard-f1d03116-0ae3-48f9-b96d-f3f32373b845-cb7665d4-thumb.webp",
+          "alt": "戴骑行手套的手举着一罐可乐，背景是江面和远处的船只",
+          "id": "spring2023:2023-05-02:1"
+        }
+      ]
     },
     {
       "date": "2023-05-03",
       "title": "",
       "paragraphs": [],
-      "photos": []
+      "photos": [
+        {
+          "src": "/journal-media/spring2023/codex-clipboard-80e15f67-a96f-405b-8627-d2fbb05be9cf-8f683b53.webp",
+          "thumbnail": "/journal-media/spring2023/codex-clipboard-80e15f67-a96f-405b-8627-d2fbb05be9cf-8f683b53-thumb.webp",
+          "alt": "背红色背包的骑行者站在江边望向远处的钢桁架桥",
+          "id": "spring2023:2023-05-03:1"
+        }
+      ]
     }
   ],
   "reflection": ""

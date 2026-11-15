@@ -1,0 +1,26 @@
+{
+  "title": "皖南 · 夏日骑行",
+  "intro": "",
+  "cover": {
+    "src": "/journal-media/wannan20250810/codex-clipboard-19ced832-d1fa-4a05-b402-8bb4d9b4dd95-3391d7d4.webp",
+    "thumbnail": "/journal-media/wannan20250810/codex-clipboard-19ced832-d1fa-4a05-b402-8bb4d9b4dd95-3391d7d4-thumb.webp",
+    "alt": "红色自行车停在稻田边，远处是连绵的青山",
+    "id": "wannan20250810:2025-08-10:1"
+  },
+  "days": [
+    {
+      "date": "2025-08-10",
+      "title": "",
+      "paragraphs": [],
+      "photos": [
+        {
+          "src": "/journal-media/wannan20250810/codex-clipboard-19ced832-d1fa-4a05-b402-8bb4d9b4dd95-3391d7d4.webp",
+          "thumbnail": "/journal-media/wannan20250810/codex-clipboard-19ced832-d1fa-4a05-b402-8bb4d9b4dd95-3391d7d4-thumb.webp",
+          "alt": "红色自行车停在稻田边，远处是连绵的青山",
+          "id": "wannan20250810:2025-08-10:1"
+        }
+      ]
+    }
+  ],
+  "reflection": ""
+}

@@ -4,7 +4,8 @@
   "cover": {
     "src": "/journal-media/sichuan/sichuan-sep24-alpine-lakes-e46c69f1.webp",
     "thumbnail": "/journal-media/sichuan/sichuan-sep24-alpine-lakes-e46c69f1-thumb.webp",
-    "alt": "雪山与岩峰环绕着高山湖泊，一条公路沿湖蜿蜒穿过山谷"
+    "alt": "雪山与岩峰环绕着高山湖泊，一条公路沿湖蜿蜒穿过山谷",
+    "id": "sichuan:2024-09-24:1"
   },
   "days": [
     {
@@ -15,7 +16,8 @@
         {
           "src": "/journal-media/sichuan/sichuan-sep16-start-1aa4dba3.webp",
           "thumbnail": "/journal-media/sichuan/sichuan-sep16-start-1aa4dba3-thumb.webp",
-          "alt": "背着红色背包的骑行者与自行车停在驿站墙前，墙上写着西藏我来了并装饰着沿途路牌"
+          "alt": "背着红色背包的骑行者与自行车停在驿站墙前，墙上写着西藏我来了并装饰着沿途路牌",
+          "id": "sichuan:2024-09-16:1"
         }
       ]
     },
@@ -27,7 +29,8 @@
         {
           "src": "/journal-media/sichuan/sichuan-sep17-river-gorge-dabd0339.webp",
           "thumbnail": "/journal-media/sichuan/sichuan-sep17-river-gorge-dabd0339-thumb.webp",
-          "alt": "河流穿过陡峭峡谷，两岸是岩石、绿树和高耸山壁"
+          "alt": "河流穿过陡峭峡谷，两岸是岩石、绿树和高耸山壁",
+          "id": "sichuan:2024-09-17:1"
         }
       ]
     },
@@ -39,7 +42,8 @@
         {
           "src": "/journal-media/sichuan/sichuan-sep18-rider-selfie-4454ddef.webp",
           "thumbnail": "/journal-media/sichuan/sichuan-sep18-rider-selfie-4454ddef-thumb.webp",
-          "alt": "戴蓝黑色头盔、背红色背包的骑行者在石桥上自拍，身后是山林、农田和房屋"
+          "alt": "戴蓝黑色头盔、背红色背包的骑行者在石桥上自拍，身后是山林、农田和房屋",
+          "id": "sichuan:2024-09-18:1"
         }
       ]
     },
@@ -51,7 +55,8 @@
         {
           "src": "/journal-media/sichuan/sichuan-sep20-prayer-flags-0721ae08.webp",
           "thumbnail": "/journal-media/sichuan/sichuan-sep20-prayer-flags-0721ae08-thumb.webp",
-          "alt": "骑行者与红色自行车在挂满彩色经幡的高大构架前合影，身后是蓝天白云和群山"
+          "alt": "骑行者与红色自行车在挂满彩色经幡的高大构架前合影，身后是蓝天白云和群山",
+          "id": "sichuan:2024-09-20:1"
         }
       ]
     },
@@ -63,7 +68,8 @@
         {
           "src": "/journal-media/sichuan/sichuan-sep21-valley-bike-188cabdf.webp",
           "thumbnail": "/journal-media/sichuan/sichuan-sep21-valley-bike-188cabdf-thumb.webp",
-          "alt": "装载行李的红色自行车靠在山路护栏旁，山谷里有农田和房屋，远处群山笼罩着云雾"
+          "alt": "装载行李的红色自行车靠在山路护栏旁，山谷里有农田和房屋，远处群山笼罩着云雾",
+          "id": "sichuan:2024-09-21:1"
         }
       ]
     },
@@ -75,7 +81,8 @@
         {
           "src": "/journal-media/sichuan/sichuan-sep22-rider-scarves-d899ddf9.webp",
           "thumbnail": "/journal-media/sichuan/sichuan-sep22-rider-scarves-d899ddf9-thumb.webp",
-          "alt": "骑行者在红色自行车旁张开双臂，栏杆和树上挂满白色与彩色哈达，远处是山峦"
+          "alt": "骑行者在红色自行车旁张开双臂，栏杆和树上挂满白色与彩色哈达，远处是山峦",
+          "id": "sichuan:2024-09-22:1"
         }
       ]
     },
@@ -87,7 +94,8 @@
         {
           "src": "/journal-media/sichuan/sichuan-sep23-litang-e8462bf9.webp",
           "thumbnail": "/journal-media/sichuan/sichuan-sep23-litang-e8462bf9-thumb.webp",
-          "alt": "身穿红色外套的骑行者与红色自行车在写着理塘的黄色墙面前合影"
+          "alt": "身穿红色外套的骑行者与红色自行车在写着理塘的黄色墙面前合影",
+          "id": "sichuan:2024-09-23:1"
         }
       ]
     },
@@ -99,7 +107,8 @@
         {
           "src": "/journal-media/sichuan/sichuan-sep24-alpine-lakes-e46c69f1.webp",
           "thumbnail": "/journal-media/sichuan/sichuan-sep24-alpine-lakes-e46c69f1-thumb.webp",
-          "alt": "雪山与岩峰环绕着高山湖泊，一条公路沿湖蜿蜒穿过山谷"
+          "alt": "雪山与岩峰环绕着高山湖泊，一条公路沿湖蜿蜒穿过山谷",
+          "id": "sichuan:2024-09-24:1"
         }
       ]
     },
@@ -111,7 +120,8 @@
         {
           "src": "/journal-media/sichuan/sichuan-sep26-mangkang-gate-b1716d82.webp",
           "thumbnail": "/journal-media/sichuan/sichuan-sep26-mangkang-gate-b1716d82-thumb.webp",
-          "alt": "两位骑行者停在湿润公路上，前方是写着西藏芒康欢迎您的彩绘牌坊"
+          "alt": "两位骑行者停在湿润公路上，前方是写着西藏芒康欢迎您的彩绘牌坊",
+          "id": "sichuan:2024-09-26:1"
         }
       ]
     },
@@ -123,7 +133,8 @@
         {
           "src": "/journal-media/sichuan/sichuan-sep27-jueba-mountain-ab2df3d5.webp",
           "thumbnail": "/journal-media/sichuan/sichuan-sep27-jueba-mountain-ab2df3d5-thumb.webp",
-          "alt": "戴头盔和面巾的骑行者在觉巴山石碑旁自拍，身后停着红色自行车"
+          "alt": "戴头盔和面巾的骑行者在觉巴山石碑旁自拍，身后停着红色自行车",
+          "id": "sichuan:2024-09-27:1"
         }
       ]
     },
@@ -135,7 +146,8 @@
         {
           "src": "/journal-media/sichuan/sichuan-sep28-dongda-pass-65543eab.webp",
           "thumbnail": "/journal-media/sichuan/sichuan-sep28-dongda-pass-65543eab-thumb.webp",
-          "alt": "红色自行车停在东达山垭口纪念碑前，石碑上挂着彩色经幡并标注海拔5130米"
+          "alt": "红色自行车停在东达山垭口纪念碑前，石碑上挂着彩色经幡并标注海拔5130米",
+          "id": "sichuan:2024-09-28:1"
         }
       ]
     },
@@ -147,7 +159,8 @@
         {
           "src": "/journal-media/sichuan/sichuan-sep29-basu-gate-0abda011.webp",
           "thumbnail": "/journal-media/sichuan/sichuan-sep29-basu-gate-0abda011-thumb.webp",
-          "alt": "写着蓝色八宿欢迎您的彩绘牌坊横跨公路，远处是白塔、房屋和山坡"
+          "alt": "写着蓝色八宿欢迎您的彩绘牌坊横跨公路，远处是白塔、房屋和山坡",
+          "id": "sichuan:2024-09-29:1"
         }
       ]
     },
@@ -159,7 +172,8 @@
         {
           "src": "/journal-media/sichuan/sichuan-sep30-winding-road-65df6ef1.webp",
           "thumbnail": "/journal-media/sichuan/sichuan-sep30-winding-road-65df6ef1-thumb.webp",
-          "alt": "盘山公路在山坡间连续蜿蜒，近处横放着装载行李的红色自行车，远处是蓝天下的群山"
+          "alt": "盘山公路在山坡间连续蜿蜒，近处横放着装载行李的红色自行车，远处是蓝天下的群山",
+          "id": "sichuan:2024-09-30:1"
         }
       ]
     },
@@ -171,7 +185,8 @@
         {
           "src": "/journal-media/sichuan/sichuan-oct01-sunlit-mountains-e5852b36.webp",
           "thumbnail": "/journal-media/sichuan/sichuan-oct01-sunlit-mountains-e5852b36-thumb.webp",
-          "alt": "阳光穿过厚云照亮山峰与山谷，山坡间点缀着金黄色树林"
+          "alt": "阳光穿过厚云照亮山峰与山谷，山坡间点缀着金黄色树林",
+          "id": "sichuan:2024-10-01:1"
         }
       ]
     },
@@ -183,7 +198,8 @@
         {
           "src": "/journal-media/sichuan/sichuan-oct02-misty-lake-05f70b77.webp",
           "thumbnail": "/journal-media/sichuan/sichuan-oct02-misty-lake-05f70b77-thumb.webp",
-          "alt": "云雾缭绕的山峰下是湖面与岸边村落，山坡上分布着秋色树林"
+          "alt": "云雾缭绕的山峰下是湖面与岸边村落，山坡上分布着秋色树林",
+          "id": "sichuan:2024-10-02:1"
         }
       ]
     },
@@ -195,7 +211,8 @@
         {
           "src": "/journal-media/sichuan/sichuan-oct03-4000km-9e4dac91.webp",
           "thumbnail": "/journal-media/sichuan/sichuan-oct03-4000km-9e4dac91-thumb.webp",
-          "alt": "身穿红色外套的骑行者与自行车在4000公里纪念标志前合影，周围是云雾山林"
+          "alt": "身穿红色外套的骑行者与自行车在4000公里纪念标志前合影，周围是云雾山林",
+          "id": "sichuan:2024-10-03:1"
         }
       ]
     },
@@ -207,7 +224,8 @@
         {
           "src": "/journal-media/sichuan/sichuan-oct04-mountain-bike-2c742993.webp",
           "thumbnail": "/journal-media/sichuan/sichuan-oct04-mountain-bike-2c742993-thumb.webp",
-          "alt": "装载行李的红色自行车停在山路护栏旁，远处群山和山谷间缭绕着云雾"
+          "alt": "装载行李的红色自行车停在山路护栏旁，远处群山和山谷间缭绕着云雾",
+          "id": "sichuan:2024-10-04:1"
         }
       ]
     },
@@ -219,7 +237,8 @@
         {
           "src": "/journal-media/sichuan/sichuan-oct05-courtyard-bike-5d157321.webp",
           "thumbnail": "/journal-media/sichuan/sichuan-oct05-courtyard-bike-5d157321-thumb.webp",
-          "alt": "红色自行车靠在白色院墙旁，旁边是红金色院门，身后是云雾中的山坡"
+          "alt": "红色自行车靠在白色院墙旁，旁边是红金色院门，身后是云雾中的山坡",
+          "id": "sichuan:2024-10-05:1"
         }
       ]
     },
@@ -231,7 +250,8 @@
         {
           "src": "/journal-media/sichuan/sichuan-final-day-night-8cc050a2.webp",
           "thumbnail": "/journal-media/sichuan/sichuan-final-day-night-8cc050a2-thumb.webp",
-          "alt": "骑行者与装载行李的红色自行车在夜晚合影，身后是灯光照亮的布达拉宫"
+          "alt": "骑行者与装载行李的红色自行车在夜晚合影，身后是灯光照亮的布达拉宫",
+          "id": "sichuan:2024-10-06:1"
         }
       ]
     }

@@ -1,19 +1,38 @@
 {
   "title": "沪苏 · 2022 中秋骑行",
   "intro": "",
-  "cover": null,
+  "cover": {
+    "src": "/journal-media/midautumn2022/codex-clipboard-c01e06c3-38f7-427f-927d-a3e83e0a0c82-9ba7c647.webp",
+    "thumbnail": "/journal-media/midautumn2022/codex-clipboard-c01e06c3-38f7-427f-927d-a3e83e0a0c82-9ba7c647-thumb.webp",
+    "alt": "蓝色山地车停在环太湖 1 号公路标志前",
+    "id": "midautumn2022:2022-09-11:1"
+  },
   "days": [
     {
       "date": "2022-09-11",
       "title": "",
       "paragraphs": [],
-      "photos": []
+      "photos": [
+        {
+          "src": "/journal-media/midautumn2022/codex-clipboard-c01e06c3-38f7-427f-927d-a3e83e0a0c82-9ba7c647.webp",
+          "thumbnail": "/journal-media/midautumn2022/codex-clipboard-c01e06c3-38f7-427f-927d-a3e83e0a0c82-9ba7c647-thumb.webp",
+          "alt": "蓝色山地车停在环太湖 1 号公路标志前",
+          "id": "midautumn2022:2022-09-11:1"
+        }
+      ]
     },
     {
       "date": "2022-09-12",
       "title": "",
       "paragraphs": [],
-      "photos": []
+      "photos": [
+        {
+          "src": "/journal-media/midautumn2022/codex-clipboard-7009e390-5a67-4563-8aa1-8f989abbbcfa-0203f04b.webp",
+          "thumbnail": "/journal-media/midautumn2022/codex-clipboard-7009e390-5a67-4563-8aa1-8f989abbbcfa-0203f04b-thumb.webp",
+          "alt": "蓝天下的桥面沿着湖面延伸，通向远处的小岛",
+          "id": "midautumn2022:2022-09-12:1"
+        }
+      ]
     }
   ],
   "reflection": ""

@@ -4,7 +4,8 @@
   "cover": {
     "src": "/journal-media/jiuhua/jiuhua-mountain-bike-05e6e64c.webp",
     "thumbnail": "/journal-media/jiuhua/jiuhua-mountain-bike-05e6e64c-thumb.webp",
-    "alt": "红色自行车停在绿色护栏旁，远处是连绵山峦和蓝天白云"
+    "alt": "红色自行车停在绿色护栏旁，远处是连绵山峦和蓝天白云",
+    "id": "jiuhua:2026-08-22:1"
   },
   "days": [
     {
@@ -15,7 +16,8 @@
         {
           "src": "/journal-media/jiuhua/jiuhua-mountain-bike-05e6e64c.webp",
           "thumbnail": "/journal-media/jiuhua/jiuhua-mountain-bike-05e6e64c-thumb.webp",
-          "alt": "红色自行车停在绿色护栏旁，远处是连绵山峦和蓝天白云"
+          "alt": "红色自行车停在绿色护栏旁，远处是连绵山峦和蓝天白云",
+          "id": "jiuhua:2026-08-22:1"
         }
       ]
     }

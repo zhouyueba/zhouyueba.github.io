@@ -1,7 +1,12 @@
 {
   "title": "太湖 · 环湖骑行",
   "intro": "",
-  "cover": null,
+  "cover": {
+    "src": "/journal-media/taihu/codex-clipboard-e90f7669-8851-4755-ac5f-423091d1f8a0-1df5c0cb.webp",
+    "thumbnail": "/journal-media/taihu/codex-clipboard-e90f7669-8851-4755-ac5f-423091d1f8a0-1df5c0cb-thumb.webp",
+    "alt": "白色栏杆外是开阔的太湖，湖面上立着红色航标",
+    "id": "taihu:2025-08-03:1"
+  },
   "days": [
     {
       "date": "2025-08-02",
@@ -13,7 +18,14 @@
       "date": "2025-08-03",
       "title": "",
       "paragraphs": [],
-      "photos": []
+      "photos": [
+        {
+          "src": "/journal-media/taihu/codex-clipboard-e90f7669-8851-4755-ac5f-423091d1f8a0-1df5c0cb.webp",
+          "thumbnail": "/journal-media/taihu/codex-clipboard-e90f7669-8851-4755-ac5f-423091d1f8a0-1df5c0cb-thumb.webp",
+          "alt": "白色栏杆外是开阔的太湖，湖面上立着红色航标",
+          "id": "taihu:2025-08-03:1"
+        }
+      ]
     }
   ],
   "reflection": ""
